@@ -36,6 +36,9 @@
   2] Author_id : This consist of the id of the author and datatype is int.
  
  Genre Table:
-  1] 
+  1] Genre_id : This attribute is a primary key in these table and this attribute shows the id of the genre. 
+  2] Genre_Name : This attribute shows the name of the genre. 
+
+ 
  
   
