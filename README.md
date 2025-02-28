@@ -4,14 +4,14 @@
 
  In this library management system database i create total 8 tables which contain different attributes in it.
 
- Author Table :
+ 𝗔𝗨𝗧𝗛𝗢𝗥 𝗧𝗔𝗕𝗟𝗘 :
 
  Author table consist of 2 attribute 
   1] Author_Id : this is a primary key in this table and datatype is int.
 
   2] Author_Name :This consist of name of Author and datatype is varchar.
   
- Book Table :
+ 𝗕𝗢𝗢𝗞 𝗧𝗔𝗕𝗟𝗘 :
 
   1] Book_id : This consist of the id of book and datatype is int.
 
@@ -29,17 +29,19 @@
 
   8] Genre_Id : This is also the foreign key in this table and this attribute tell about the id of the genre and datatype is int.
   
- Book_Authors Table :
+ 𝗕𝗢𝗢𝗞_𝗔𝗨𝗧𝗛𝗢𝗥𝗦 𝗧𝗔𝗕𝗟𝗘:
 
   1] Book_id : This consist of the id of book and this is a primary key in this table and the datatype is int.
 
   2] Author_id : This consist of the id of the author and datatype is int.
  
- Genre Table:
+ 𝗚𝗘𝗡𝗥𝗘 𝗧𝗔𝗕𝗟𝗘:
 
   1] Genre_id : This attribute is a primary key in these table and this attribute shows the id of the genre. 
 
   2] Genre_Name : This attribute shows the name of the genre. 
+
+ 
 
  
  
