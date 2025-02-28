@@ -1,10 +1,14 @@
 # Brainwave_matrix_intern
  I have completed my given task by brainwave matrix solutions.
  Task Name : To Design and Implement a relational database on library management system..
+
  In this library management system database i create total 8 tables which contain different attributes in it.
+
  Author Table :
+
  Author table consist of 2 attribute 
   1] Author_Id : this is a primary key in this table and datatype is int.
+
   2] Author_Name :This consist of name of Author and datatype is varchar.
   
  Book Table :
