@@ -41,7 +41,7 @@
   
   2] Genre_Name : This attribute shows the name of the genre. 
 
-  LOANS TABLE:
+  𝗟𝗢𝗔𝗡𝗦 𝗧𝗔𝗕𝗟𝗘:
 
   1] Loans_id : This attribute is a primary in the loans table and the attribute loans_id shows the unique id for the loan.
 
@@ -53,7 +53,7 @@
 
   5] Member_id : This attribute consist of the id of the member and these attribute is the foreign key referencing member and the datatype is int.
 
-  MEMBER TABLE:
+  𝗠𝗘𝗠𝗕𝗘𝗥 𝗧𝗔𝗕𝗟𝗘:
 
   1] Member_id : This attribute is the primary key in these table which consist of the id of the member and the datatype of these attribute is int.
 
@@ -67,13 +67,13 @@
 
   6] Enddate : This attribute consist of the date when the member end their membership with library and the datatype should be varchar or date or datetime.
 
- PUBLISHER TABLE:
+ 𝗣𝗨𝗕𝗟𝗜𝗦𝗛𝗘𝗥 𝗧𝗔𝗕𝗟𝗘:
  
  1] Publisher_id : This attribute is the primary key in these table and the datatype of these table is int . This attributes shows the unique id for the publisher.
 
  2] Publisher_Name : This attribute shows the name of the publisher and the datatype of these attribute is varchar.
  
- RESERVATIONS TABLE:
+ 𝗥𝗘𝗦𝗘𝗥𝗩𝗔𝗧𝗜𝗢𝗡𝗦 𝗧𝗔𝗕𝗟𝗘:
 
  1] Reservation_id : This attribute is the primary key in these table and the datatype of these table is int. This attributes shows the unique id for the reservations.
 
@@ -84,8 +84,7 @@
 
  4] Reservation_date : This attribute shows the date when the reservation is made and the datatype of the table is varchar or date or datetime.
 
- 5] Reservation_status : This attribute shows the status of the reservation and tell about the reservation is pending,successful or cancelled . The datatype of the attribute is varchar 
-                         or enum.
+ 5] Reservation_status : This attribute shows the status of the reservation and tell about the reservation is pending,successful or cancelled . The datatype of the attribute is varchar or enum.
 
  
  
